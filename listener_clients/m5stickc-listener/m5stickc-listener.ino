@@ -42,7 +42,7 @@ String listenerDeviceName = "m5StickC-";
 bool LAST_MSG = false;  // true = show log on tally screen
 
 //Tally Arbiter Server
-char tallyarbiter_host[40] = "192.168.0.110";  //IP address of the Tally Arbiter Server
+char tallyarbiter_host[40] = "172.168.1.1";  //IP address of the Tally Arbiter Server
 char tallyarbiter_port[6] = "4455";
 
 /* END OF USER CONFIG */
